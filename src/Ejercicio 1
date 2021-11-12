@@ -1,0 +1,10 @@
+alumno@alumno-HP-ProDesk-600-G5-MT:~$ nano hola.sh 
+#/bin/bash
+num1=1
+num2=2
+if [ $num1 -lt $num2 ]
+then
+        echo Hola Mundo
+else
+        echo Adios Mundo
+fi

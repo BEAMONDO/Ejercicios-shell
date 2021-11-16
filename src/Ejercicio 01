@@ -1,1 +1,18 @@
+ nano 01-hola-mundo.sh
+ 
+ ####################
+ 
+ #/bin/bash
+num1=1
+num2=2
+if [ $num1 -lt $num2 ]
+then
+        echo Hola Mundo
+else
+        echo Adios Mundo
+fi
 
+ ####################
+ 
+ chmod 777 01-hola-mundo.sh 
+./01-hola-mundo.sh 

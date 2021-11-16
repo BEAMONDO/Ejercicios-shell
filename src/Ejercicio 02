@@ -2,6 +2,7 @@ nano 02-holaparametros.sh
 
 ####################
 #script
+
 echo "hola $*/: "
 
 ####################

@@ -2,7 +2,7 @@ nano 03-hola-al-menos-1-parametro.sh
 
 ########################
 #script
-#/bin/bash
+#!/bin/bash
 echo "numero de parametros que hay = $#"
 if [ $# -le 0 ];
 then

@@ -1,1 +1,11 @@
+nano 06-holausuario.sh
 
+############################
+#script
+#!/bin/bash
+echo "Bienvenido usuario!"
+
+############################
+
+chmod 777 06-holausuario.sh
+./06-holausuario.sh

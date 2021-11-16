@@ -16,4 +16,3 @@ fi
  
  chmod 777 01-hola-mundo.sh 
 ./01-hola-mundo.sh 
-

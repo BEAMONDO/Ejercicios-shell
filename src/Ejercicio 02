@@ -1,1 +1,10 @@
+nano 02-holaparametros.sh 
 
+####################
+#script
+echo "hola $*/: "
+
+####################
+
+chmod 777 02-holaparametros.sh
+./02-holaparametros.sh

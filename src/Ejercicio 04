@@ -2,6 +2,7 @@ nano 04-hola-parametrosseparados.sh
 
 ###########################
 #script
+
 #!/bin/bash
 
 if [ $# -le 0 ];

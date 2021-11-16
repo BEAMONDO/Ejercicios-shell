@@ -1,8 +1,8 @@
- nano 01-hola-mundo.sh
+nano 01-hola-mundo.sh
  
- ####################
- 
- #/bin/bash
+###################
+#script
+#/bin/bash
 num1=1
 num2=2
 if [ $num1 -lt $num2 ]

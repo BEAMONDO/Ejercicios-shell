@@ -3,7 +3,8 @@ nano 02-holaparametros.sh
 ####################
 #script
 
-echo "hola $*/: "
+#! /bin/bash
+echo "Hola $@!"
 
 ####################
 

@@ -3,8 +3,8 @@ nano 01-hola-mundo.sh
 ###################
 #script
 
-#/bin/bash
-echo Hola Mundo
+#! /bin/bash
+echo "Hola mundo!"
 
  ####################
  

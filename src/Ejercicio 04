@@ -1,6 +1,6 @@
 nano 04-hola-parametrosseparados.sh
 
-###########################
+#######################################################################################
 #script
 
 #! /bin/bash
@@ -25,6 +25,7 @@ done
 # mostramos la salida por pantalla
 echo $MENSAJE"!"
 
-###########################
+#######################################################################################
+
 chmod 777 04-hola-parametrosseparados.sh
 ./04-hola-parametrosseparados.sh 

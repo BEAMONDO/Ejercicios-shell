@@ -3,7 +3,7 @@ nano 06-holausuario.sh
 ############################
 #script
 
-#! /bin/bash
+#!/bin/bash
 # función de ayuda
 function ayuda() {
 cat << DESCRPCION_AYUDA
